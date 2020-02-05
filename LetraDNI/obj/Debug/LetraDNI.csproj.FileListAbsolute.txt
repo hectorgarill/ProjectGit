@@ -1,0 +1,9 @@
+C:\Users\hectorgarill\Desktop\ProjectGit\LetraDNI\bin\Debug\LetraDNI.exe.config
+C:\Users\hectorgarill\Desktop\ProjectGit\LetraDNI\bin\Debug\LetraDNI.exe
+C:\Users\hectorgarill\Desktop\ProjectGit\LetraDNI\bin\Debug\LetraDNI.pdb
+C:\Users\hectorgarill\Desktop\ProjectGit\LetraDNI\obj\Debug\LetraDNI.csprojAssemblyReference.cache
+C:\Users\hectorgarill\Desktop\ProjectGit\LetraDNI\obj\Debug\LetraDNI.Form1.resources
+C:\Users\hectorgarill\Desktop\ProjectGit\LetraDNI\obj\Debug\LetraDNI.Properties.Resources.resources
+C:\Users\hectorgarill\Desktop\ProjectGit\LetraDNI\obj\Debug\LetraDNI.csproj.GenerateResource.cache
+C:\Users\hectorgarill\Desktop\ProjectGit\LetraDNI\obj\Debug\LetraDNI.exe
+C:\Users\hectorgarill\Desktop\ProjectGit\LetraDNI\obj\Debug\LetraDNI.pdb
